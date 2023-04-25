@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Cattagram</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="have_no_account_register">Have no account? Register</string>
+    <string name="username">Username</string>
+    <string name="register_with_catagram">Register with Catagram</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="register">Register</string>
+    <string name="about_desc">This app was designed as a Java homework assignment. Students learn how to create a social media app using the Java programming language. This assignment teaches students the fundamentals of Java programming while also including the development of an application. \n\nThe app was created using many different Java libraries. SQLite was used for database operations, and the Picasso library was used for storing images. In addition, Android components such as RecyclerView and CardView were also used.</string>
+</resources>
